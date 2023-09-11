@@ -8,15 +8,7 @@
 ### Objective
 Automate the decision-making process for the yearly budget allocation of an International Logistics Company.
 
-### Article
-In this [Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/),we will build a fully automated solution to share a one-page operational 
-report in an HTML email using Python.
 
-### Youtube Video
-Click on the image below to access a full tutorial video to understand the concept behind this solution
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=mo3IjpSQBdc"><img src="https://i.ytimg.com/an_webp/mo3IjpSQBdc/mqdefault_6s.webp?du=3000&sqp=COKqnp8G&rs=AOn4CLCtotbqs0zoP3XB7H7xbj0N4lObDw" alt="Explainer Video Link"></a>
-</div>
 
 
 ### Scenario
@@ -51,10 +43,4 @@ Your solution will be a simple python script, deployed on the cloud, that will a
   <img align="center" src="https://miro.medium.com/max/828/1*3MXAwPZrurHfLRrCM1wOKA.png">
 </p>
 
-## Code
-This repository code you will find all the code used to explain the concepts presented in the article.
 
-## About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
-Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
